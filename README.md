@@ -1,5 +1,5 @@
-# Sistemagestioncontactos
-Sistema de Gestión de Contactos
+# Sistema de gestion de contactos
+
 Descripción: Crear un programa en Python que simule un sistema de gestión de contactos. El programa debe permitir a los usuarios realizar las siguientes acciones:
 1. Agregar un contacto: Permite al usuario agregar un contacto a la lista de contactos. Los contactos deben tener atributos como nombre, número de teléfono y correo electrónico.
 2. Mostrar todos los contactos: Muestra una lista de todos los contactos disponibles.
